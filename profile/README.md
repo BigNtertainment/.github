@@ -12,3 +12,9 @@ If you'd like to play our games, read our blog, or get to know us more, visit [o
 ## Contact
 
 Feel free to contact us through email: bignterprise@gmail.com
+
+## Technologies
+
+Most of our work is done in Rust, in the [Bevy](https://github.com/bevyengine/bevy) game engine. One of our long term goals is to create our own game engine
+called BigNgine. We have already given it a shot, but it didn't turn out how we wanted it to, mainly due to our inexperience. After making some games with Bevy,
+we aim to remake the engine in Rust.
