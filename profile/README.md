@@ -7,7 +7,7 @@ Feel free to open issues on our repositories or create PRs to projects that are 
 
 ## Our website
 
-If you'd like to play our games, read our blog, or get to know us more, visit [our website](BigNtertainment.github.io).
+If you'd like to play our games, read our blog, or get to know us more, visit [our website](https://bign.lol).
 
 ## Contact
 
